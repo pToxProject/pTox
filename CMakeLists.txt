@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.2)
 project(uTox LANGUAGES C)
 
-#####################
-## Project Metadata #
-#####################
+######################
+## Project Metadata ##
+######################
 
 set(PROJECT_VERSION_MAJOR "0")
 set(PROJECT_VERSION_MINOR "17")
