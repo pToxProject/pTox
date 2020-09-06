@@ -1,11 +1,11 @@
-.TH UTOX "1" "@BUILD_MONTH@ @BUILD_YEAR@" "µTox @PROJECT_VERSION@"
+.TH UTOX "1" "@BUILD_MONTH@ @BUILD_YEAR@" "ptox @PROJECT_VERSION@"
 .SH NAME
 µTox \- Lightweight Tox client
 
 .SH SYNOPSIS
-usage: utox [--portable] [--theme <THEME>] [--set=<start-on-boot|show-window|hide-window>] [--allow-root]
-   or: utox --version
-   or: utox --help
+usage: ptox [--portable] [--theme <THEME>] [--set=<start-on-boot|show-window|hide-window>] [--allow-root]
+   or: ptox --version
+   or: ptox --help
 
 .SH DESCRIPTION
 µTox is a free software lighweight X.org graphical Tox client.
