@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#
 export CACHE_DIR=`pwd`/cache/$GL_BUILD
 mkdir -p $CACHE_DIR || true
 
