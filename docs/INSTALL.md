@@ -75,7 +75,7 @@ Right now no one is providing binaries. You will have to compile uTox. See [inst
 
 ## FreeBSD
 
-You can install uTox using `pkg`:
+You can install pTox using `pkg`:
 
 ```bash
 sudo pkg install ptox
