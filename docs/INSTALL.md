@@ -1,6 +1,6 @@
 # Install
 
-The following steps install μTox on your computron/toaster/carrier pigeon. This guide gets you running ASAP. It mostly deals with precomplied binaries. If you're looking to contribute (you're the real MVP) you're probably looking for [Building](BUILD.md).
+The following steps install pTox on your computron/toaster/carrier pigeon. This guide gets you running ASAP. It mostly deals with precomplied binaries. If you're looking to contribute (you're the real MVP) you're probably looking for [Building](BUILD.md).
 
 For any and all of the following, you'll need to have [toxcore](https://github.com/TokTok/c-toxcore) installed first.
 
@@ -16,7 +16,7 @@ For any and all of the following, you'll need to have [toxcore](https://github.c
 
 ## Windows
 
-Installing on Windows isn't really a thing yet... just download and run the latest version: [x64](https://github.com/uTox/uTox/releases/download/v0.17.2/utox_x86_64.exe).
+Installing on Windows isn't really a thing yet... just download and run the latest version: [x64](https://github.com/pToxProject/pTox/releases/download/1.17.1/setup-ptox-x86_64.exe).
 
 ## Unix-like
 
